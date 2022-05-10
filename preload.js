@@ -14,7 +14,7 @@ window.exports = {
         callbackSetList([
           {
              title: '确定',
-             description: '设置 Flomo API',
+             description: '设置 Seeds API',
              icon: 'icons/setapi.png',
              urlWithToken: searchWord,
           }

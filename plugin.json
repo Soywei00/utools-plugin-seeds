@@ -1,8 +1,8 @@
 {
-  "pluginName": "Flomo",
-  "description": "记录你的想法川流",
-  "author": "heibai",
-  "homepage": "https://github.com/heibai01/utools-plugin-flomo",
+  "pluginName": "Seeds",
+  "description": "思记由你",
+  "author": "Created by heibai01,Recoding by soywei00",
+  "homepage": "https://github.com/Soywei00/utools-plugin-seeds",
   "logo": "icons/logo.png",
   "preload": "preload.js",
   "version": "0.0.1",
@@ -10,11 +10,11 @@
     {
       "code": "setapi",
       "explain": "设置你的专属记录 API",
-      "cmds": ["flomo", "set flomo api"]
+      "cmds": ["seeds", "set seeds api"]
     },
     {
       "code": "sendto_by_text",
-      "explain": "发送文字到 Flomo",
+      "explain": "发送文字到 Seeds",
       "icon": "icons/send.png",
       "cmds": [
         {
